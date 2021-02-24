@@ -1,1 +1,2 @@
 # Learn-Go-2021
+One of my professional goals ever year is to learn a new programming language, for 2021 I am looking to learn Golang! I am starting out by reading and working through The Go Programming Language by Alan A. A. Donovan and Brian W. Kernighan, so far it has been a great book for taking a deep dive and learning the language. This repo will include all the exercises I have worked through while going through the book as well as any other interesting pieces of code I write along the way. 
